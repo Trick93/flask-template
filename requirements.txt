@@ -64,7 +64,7 @@ python-socketio==2.0.0
 pytz==2018.5
 PyYAML==5.1.1
 redis==3.2.1
-requests==2.11.1
+requests==2.20.0
 ruamel.ordereddict==0.4.13
 ruamel.yaml==0.15.96
 selenium==3.141.0
