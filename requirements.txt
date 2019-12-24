@@ -44,7 +44,7 @@ kaitaistruct==0.8
 ldap3==2.5.2
 lxml==3.6.0
 MarkupSafe==1.0
-mitmproxy==0.18.3
+mitmproxy==4.0.4
 monotonic==1.5
 MySQL-python==1.2.5
 passlib==1.6.5
